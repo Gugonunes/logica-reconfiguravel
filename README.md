@@ -1,1 +1,1 @@
-# logica-reconfiguravel
+# Repositório para disciplina de Lógica Reconfigurável
